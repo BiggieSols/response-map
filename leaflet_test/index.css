@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+#map {
+  height: 100vh;
+  /*max-height: 600px;*/
+}
+
+.circle {
+  cursor: pointer;
+  /*transition: 'cx' 0.5s linear;*/
+}
+
+.leaflet-control-attribution {
+  display: none;
+}
